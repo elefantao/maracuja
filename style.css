@@ -5,7 +5,8 @@
 --destaque: #836FFF;
 --preto: #000000;
 --branco: #ffffff;
+}
 
-
-
+body{
+    background-color: var(--fundo);
 }
