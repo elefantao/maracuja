@@ -36,3 +36,11 @@ flex-wrap: wrap;
     height: 20rem;
     margin: 1rem;
 }
+
+.conteudo-cartao{
+    background-color: var(--frente-cartao);
+    height: 100%;
+    text-align: center;
+
+
+}
