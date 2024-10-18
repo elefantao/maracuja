@@ -41,6 +41,5 @@ flex-wrap: wrap;
     background-color: var(--frente-cartao);
     height: 100%;
     text-align: center;
-
-
+    color: #ffffff;
 }
