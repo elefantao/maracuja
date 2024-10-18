@@ -43,3 +43,15 @@ flex-wrap: wrap;
     text-align: center;
     color: #ffffff;
 }
+
+.conteudo-cartao h3{
+    position: absolute;
+    text-align: left;
+    color: var(--destaque);
+    border: 1px solid var(--destaque);
+    border-radius: 6rem;
+    padding: 0.6rem;
+    margin: 0.6rem;
+    font-size: 1.6VW;
+
+}
