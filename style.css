@@ -55,6 +55,7 @@ flex-wrap: wrap;
     padding: 0.6rem;
     margin: 0.6rem;
     font-size: 1VW;
+    backface-visibility: hidden;
 
 }
 
@@ -70,3 +71,14 @@ flex-wrap: wrap;
 
 
 }
+
+.pergunta-cartao,  .resposta-cartao{
+    backface-visibility: hidden;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    }
+
+    .resposta-cartao{
+        transform: rotateY(180deg);
+    }
