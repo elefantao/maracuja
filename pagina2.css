@@ -55,7 +55,8 @@ footer{
 }
 
 .resposta-cartao{
-    background-color: var(--verso-cartao);
+    background-color: var(--preto);
     padding: 40px;
-    
+    display: none;
+
 }
