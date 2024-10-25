@@ -81,4 +81,7 @@ flex-wrap: wrap;
 
     .resposta-cartao{
         transform: rotateY(180deg);
+        background-color: var(--verso-cartao);
+        color: var(--destaque);
+        border: var(--destaque);
     }
